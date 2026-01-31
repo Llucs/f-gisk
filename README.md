@@ -53,15 +53,16 @@ name=Example Module
 version=1.0
 versionCode=1
 author=Developer
-description=Short description of the module
+description=Short description of the module```
 
-update.json
+#### update.json
+```ini
 
 {
   "repo": "https://github.com/user/example-module",
   "zip": "https://github.com/user/example-module/releases/latest/download/example.zip",
   "changelog": "Initial release"
-}
+}```
 
 Submission Process
 
