@@ -121,6 +121,6 @@ The goal is to create a reliable and sustainable ecosystem for Magisk modules.
 
 License
 
-This project is released under the MIT License.
+This project is released under the [MIT License](https://github.com/Llucs/f-gisk/blob/main/LICENSE).
 
 Developers are free to use, modify, and distribute F-Gisk, as long as proper credit is given.
