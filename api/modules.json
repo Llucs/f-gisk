@@ -1,0 +1,10 @@
+[
+  {
+    "id": "speedcool",
+    "name": "SpeedCool",
+    "version": "2.3",
+    "author": "Lucas",
+    "description": "Cooling and performance engine",
+    "zip": "modules/speedcool/module.zip"
+  }
+]
